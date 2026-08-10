@@ -43,5 +43,6 @@ This is a niche area, which is increasingly receiving attention from the communi
 
 ## Open-Source Resources
 
+- AI Citation Evidence Validator — Open-source, client-side validator for GEO/AEO observation records that checks evidence completeness, citation-field consistency, timestamps, and duplicate run keys. [[Tool]](https://corankai.github.io/ai-citation-evidence-validator/) [[Source]](https://github.com/corankai/ai-citation-evidence-validator) — Built by [Corank](https://corank.ai/).
 - GEO Knowledge Base — Comprehensive open-source GEO reference with five-layer architecture, methodology documentation, and case studies [[GitHub]](https://github.com/shanhai-geo/geo-knowledge-base)
 - GEO Open Protocol — Open standard for brand AI visibility measurement including Brand Visibility Index (BVI) [[Website]](https://shanhai-geo.github.io/geo-protocol/)
